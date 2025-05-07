@@ -20,7 +20,7 @@
 Clone the repository and install dependencies:
 
 ```
-git clone https://github.com/your-username/uizen.git
+git clone https://github.com/Saikatcoder/UIZen.git
 cd uizen
 npm install
 ```
