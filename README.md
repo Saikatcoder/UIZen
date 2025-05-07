@@ -24,6 +24,7 @@ git clone https://github.com/Saikatcoder/UIZen.git
 cd uizen
 npm install
 ```
+
 ```
 npm run dev
 # or
@@ -31,21 +32,21 @@ yarn dev
 ```
 
 # 🧱 Tech Stack
- Next.js – App Router architecture
 
- React – Component-based UI
+Next.js – App Router architecture
 
- Tailwind CSS – Utility-first styling
+React – Component-based UI
 
- Shadcn/UI – Accessible components with Radix UI
+Tailwind CSS – Utility-first styling
 
- Framer Motion – Smooth animations
+Shadcn/UI – Accessible components with Radix UI
 
- TypeScript – Type-safe development
+Framer Motion – Smooth animations
 
-
+TypeScript – Type-safe development
 
 # ✨ Features
+
 Customizable UI components with consistent design
 
 Dark mode support
@@ -57,11 +58,13 @@ Built-in accessibility (a11y)
 Easy to integrate into any project
 
 # Components Preview
+
 Explore all available components in the live preview (coming soon).
 
 🛠 Components like Button, Input, Card, Modal, Tooltip, Accordion, Navbar, and more...
 
 # Inspiration
+
 Inspired by modern design systems like:
 
 **shadcn/ui**
@@ -71,13 +74,15 @@ Inspired by modern design systems like:
 **Tailwind UI**
 
 # 📄 License
+
 This project is open-source and available under the MIT License.
 
 # 🌐 Contributing
+
 Pull requests are welcome! For major changes, please open an issue first.
 
 ## 📣 Connect
-**🔗 Twitter: @yourhandle** 
+
+**🔗 Twitter: @yourhandle**
 
 ## 🌍 Website: uizen.dev (Coming Soon)
-

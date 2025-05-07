@@ -5,17 +5,19 @@ import Footer from "../../components/layout/footer";
 export const metadata: Metadata = {
   title: {
     template: "UiZen – Open Source Components",
-    default: "UIZen UI"
-  }
+    default: "UIZen UI",
+  },
 };
 
-export default function HomeLayout({ children }: { children: React.ReactNode }) {
+export default function HomeLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   return (
     <>
-    <Header />
-      <main className="relative w-full pt-0 md:pt-0">
-        {children}
-      </main>
+      <Header />
+      <main className="relative w-full pt-0 md:pt-0">{children}</main>
       <Footer />
     </>
   );
